@@ -7,7 +7,7 @@ class FirstTab extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child:  Lottie.asset('assets/animations/wallet_animation.json'),
+      child:  Lottie.asset('assets/animations/coin_animation.json'),
     );
   }
 }

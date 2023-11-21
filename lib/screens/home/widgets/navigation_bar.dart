@@ -29,7 +29,7 @@ class NavigationBarWidget extends ConsumerWidget {
             Icons.home_outlined,
             color: Colors.grey,
           ),
-          label: 'Second',
+          label: 'Home',
         ),
         NavigationDestination(
           selectedIcon: Icon(
@@ -40,7 +40,7 @@ class NavigationBarWidget extends ConsumerWidget {
             Icons.monetization_on_outlined,
             color: Colors.grey,
           ),
-          label: 'First',
+          label: 'Wallet',
         ),
       ],
     );
